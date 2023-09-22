@@ -1,5 +1,6 @@
-<h1 align="center">Hello 👋, I'm Sakshi 👩‍💻</h1>
-<h3 align="center">I'm a passionate full-stack developer with a creative twist.I love building applications and solving problems using a wide range of technologies. I'm always exploring new tools and frameworks to stay at the cutting edge of technology.Beyond coding, I have a keen eye for design. I enjoy crafting intuitive and visually appealing user interfaces that create delightful user experiences.</h3>
+
+<h1 align="center" text-decoration="none">Hello 👋, I'm Sakshi 👩‍💻</h1>
+<p align="center"><b>I'm a passionate full-stack developer with a creative twist.I love building applications and solving problems using a wide range of technologies. I'm always exploring new tools and frameworks to stay at the cutting edge of technology.Beyond coding, I have a keen eye for design. I enjoy crafting intuitive and visually appealing user interfaces that create delightful user experiences.</b></p>
 
 ## 💻 About Me
 
@@ -34,6 +35,6 @@ Apart from coding, I have a few other hobbies:
 
 ## 📫 Let's Connect
 
-I'm always open to connecting with fellow developers, tech enthusiasts, and anyone interested in tech. Feel free to reach out to me through [email](sakshiso4001@gmail.com) 
+I'm always open to connecting with fellow developers, tech enthusiasts, and anyone interested in tech. Feel free to reach out to me through [Email](itissakshi04@gmail.com), [LinkedIn](https://www.linkedin.com/in/itissakshi02/), [Dribbble](https://dribbble.com/itissakshi), [Behance](https://www.behance.net/itissakshi)
 
 Let's collaborate, learn, and build amazing things together! 🚀
