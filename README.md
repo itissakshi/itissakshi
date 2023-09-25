@@ -35,6 +35,6 @@ Apart from coding, I have a few other hobbies:
 
 ## 📫 Let's Connect
 
-I'm always open to connecting with fellow developers, tech enthusiasts, and anyone interested in tech. Feel free to reach out to me through [Email](itissakshi04@gmail.com), [LinkedIn](https://www.linkedin.com/in/itissakshi02/), [Dribbble](https://dribbble.com/itissakshi), [Behance](https://www.behance.net/itissakshi)
+I'm always open to connecting with fellow developers, tech enthusiasts, and anyone interested in tech. Feel free to reach out to me through [Email](itissakshi04@gmail.com), [LinkedIn](https://www.linkedin.com/in/sakshi023/), [Dribbble](https://dribbble.com/sakshi023), [Behance](https://www.behance.net/sakshi023)
 
 Let's collaborate, learn, and build amazing things together! 🚀
